@@ -1,0 +1,1 @@
+add Security.framework to your project and drag this tool to your project ,you can get device identifity
